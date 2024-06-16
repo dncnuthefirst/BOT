@@ -138,5 +138,5 @@ async def on_ready():
     print(f'Logged in as {bot.user}!')
 
 # Wait did u see this token uhh please have mercy on me
-TOKEN = "MTIyNzU0NjYyMjQ1Njc1ODI5Mg.GeRGif.NeNwmz48NJIHf9ixhXv-ZCmYsxOSQtmi4iJ01Y"
+TOKEN = "MTIyNzU0NjYyMjQ1Njc1ODI5Mg.G1HAuA.HDFIv1vrDOfuzla5yRaDToWKTi161ipIPh1w44"
 bot.run(TOKEN)
